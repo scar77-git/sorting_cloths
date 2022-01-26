@@ -1,1 +1,1 @@
-# sorting_cloths
+# Sorting cloths using CNN 
